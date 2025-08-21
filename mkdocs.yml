@@ -20,7 +20,10 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav:
   - Project Summary: index.md
   - Project Log: log.md
