@@ -1,8 +1,8 @@
 site_name: Project template
 theme:
   name: material
-  logo: logo.png
-  favicon: favicon.ico
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
   palette:
     - scheme: dracula
       primary: black
