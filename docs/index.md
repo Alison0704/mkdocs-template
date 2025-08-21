@@ -1,1 +1,1 @@
-# Welcome to my project documentation
+# Welcome to the {project} documentation
